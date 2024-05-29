@@ -1,0 +1,11 @@
+To reference Manuel Cota's software in publications, please cite the following:
+
+Manuel Cota: "Manuel Cota Co.".  Planets, May-June 2024.
+
+@article{manuel-cota-2024,
+    author =  {Manuel Cota},
+    title =   {Planets},
+    journal = {Computing in Science \& Engineering},
+    month =   {May-June},
+    year =    {2024},
+}
